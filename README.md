@@ -23,7 +23,11 @@
 - Ex19-Fibonacci Indice (`cd ex19_fibonacci_indice`)
 - Ex20-MCD Euclides (`cd ex20_mcd_euclides`)
 
-Resuelve los ejercicios indicados aplicando las estrategias y técnicas de IA adecuadas.
+Resuelve los ejercicios indicados aplicando las estrategias y técnicas de IA adecuadas. Usa el siguiente *workflow*:
+
+1. En tu terminal colocáte en el directorio del ejercicio usando el comando `cd exXX_XXX` correspondiente al mismo.
+2. Resuelve el ejercicio. Aplica las pruebas. Empuja tu solución a Github.
+3. Para realizar otro ejercicio regresa al directorio `Home` del repositorio con el comando indicado abajo. Repite el paso 1.
 
 # Navegación - Home
 Para regresar al Home del repositorio, use:
