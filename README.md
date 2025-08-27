@@ -30,8 +30,8 @@ Resuelve los ejercicios indicados aplicando las estrategias y técnicas de IA ad
 3. Para realizar otro ejercicio regresa al directorio `Home` del repositorio con el comando indicado abajo. Repite el paso 1.
 
 # Navegación - Home
-Para regresar al Home del repositorio, use:
+Estando en el directorio de cualquier ejercicio puede regresar al Home del repositorio, usando:
 
 ```
-cd /workspaces/TC1028.python.ciclos.ia
+cd ..
 ```
