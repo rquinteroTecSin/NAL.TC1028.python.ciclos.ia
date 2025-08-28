@@ -7,6 +7,38 @@ Un sensor envía lecturas; `0` indica fin. Calcula la suma acumulada.
 ## Enunciado del problema
 Lee enteros (positivos o negativos) hasta que se ingrese **0**. Imprime la **suma** (excluye el 0).
 
+### Ejemplo 1
+Entrada
+```
+3
+4
+0
+```
+Salida
+```
+7
+```
+### Ejemplo 2
+Entrada
+```
+1
+-2
+6
+0
+```
+Salida
+```
+5
+```
+### Ejemplo 3
+Entrada
+```
+0
+```
+Salida
+```
+0
+```
 ---
 
 ## Repositorio y archivos
